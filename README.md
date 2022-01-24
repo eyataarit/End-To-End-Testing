@@ -10,7 +10,7 @@ In order to run, please follow these steps :
 
 ## Scenarios 
 ![First Case : Check if image exists]
-(https://github.com/eyataarit/End-To-End-Testing/blob/main/scenario1.png)
+(https:///raw.githubusercontent.com.com/eyataarit/End-To-End-Testing/blob/main/scenario1.png)
 
 ![Second Case : Extract the content text and the button content from the square]
 (https://github.com/eyataarit/End-To-End-Testing/blob/main/scenario1.png)
